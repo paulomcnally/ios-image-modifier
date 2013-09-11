@@ -1,0 +1,17 @@
+{
+    "name": "ios-image-modifier"
+    , "description": "Utilidad para renombrar imágenes para retina display en iOS."
+    , "version": "0.0.1"
+    , "author": "Paulo McNally <paulomcnally@gmail.com>"
+    , "keywords": ["ios", "retina", "display", "rename"]
+    , "directories": { "lib": "./lib/ios_image_modifier" }
+    , "main": "./index.js"
+    , "bugs": {
+    "url":"https://github.com/paulomcnally/ios-image-modifier/issues/new"
+    , "email": "paulomcnally@gmail.com"
+}
+    , "repository": {
+    "type": "git"
+    , "url": "git://github.com/paulomcnally/ios-image-modifier.git"
+}
+}
